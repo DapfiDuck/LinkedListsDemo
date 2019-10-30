@@ -1,4 +1,4 @@
-# LinkedListsDemo
+# Linked Lists Demo
 LinkedList Demo for Class Q2b
 
 ## Functions
